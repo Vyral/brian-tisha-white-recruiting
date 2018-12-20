@@ -1,32 +1,33 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Dallas - Fort Worth's Best Real Estate Training"
+description: Brian and Tisha White, a top Real Estate Agent in Dallas - Fort Worth, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Brian and Tisha White
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    We sell real estate. We live and breathe it. We blow clients away with fantastic communication, outstanding marketing and exceptional sales skills to help them maximize wealth their wealth through Real Estate
+  brand: BlueFuse Group
+  brokerage: eXp Realty
+  market: Dallas - Fort Worth
+  address: 9040 Witt Lane<br>Lantana, TX 76226
+  phone: 817-752-9126
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: brian@bluefuserealty.com
+  email2: tisha@bluefuserealty.com
+  url: https://findhomesindfwmetroplex.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how BlueFuse Group can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -51,50 +52,46 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
+  facebook_url: https://www.facebook.com/BlueFuseRealty/
+  linkedin_url: https://www.linkedin.com/in/bluefuserealty/
   youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
+  twitter_url: https://twitter.com/bluefuserealty
+  instagram_url: https://www.instagram.com/bluefuserealty/
+  pinterest_url: https://www.pinterest.com/bluefuserealty/
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Dallas - Fort Worth Real Estate Podcast with Brian and Tisha White'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Dallas - Fort Worth Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from BlueFuse Group - your professional Dallas - Fort Worth Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Dallas - Fort Worth, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Brian and Tisha White'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Dallas - Fort Worth Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#2769e5'
+  theme_color: '#123b4f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
-navbar_colors:
-  border_bottom:
 
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
