@@ -1,10 +1,10 @@
 audit_header: false
 title: "Dallas - Fort Worth's Best Real Estate Training"
 description: Brian and Tisha White, a top Real Estate Agent in Dallas - Fort Worth, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Free Newsletter
+    url: /subscribe/
 
 client:
   name: Brian and Tisha White
