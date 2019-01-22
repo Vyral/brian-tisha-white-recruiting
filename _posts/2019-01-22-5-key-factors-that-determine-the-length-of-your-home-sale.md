@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Key Factors That Determine the Length of Your Home Sale
-date:
+date: 2019-01-22 18:30:47
 tags:
   - Home Selling
 excerpt: >-
