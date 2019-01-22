@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 5 Key Factors That Determine the Length of Your Home Sale
-date: 2019-01-22 18:30:47
+date: 2019-01-22 18:30:00
 tags:
-  - Home Selling
 excerpt: >-
   There are many different factors involved when it comes to selling a home.
   Here are five of them that could speed up or slow down your sale.
@@ -13,7 +12,7 @@ pullquote: Inventory refers to how many homes are on the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/1-22-how-long-np.jpg
+youtube_alternate_image: /uploads/1-22-how-long-np-1.jpg
 youtube_code: Ataj-9Di6WY
 ---
 
