@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Free Newsletter
     url: /subscribe/
+  - title: Join Our Team
+    url: /join-our-team/    
 
 client:
   name: Brian and Tisha White
