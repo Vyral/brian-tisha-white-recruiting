@@ -4,14 +4,16 @@ title: BlueFuse Interviews Rick Raanes
 date:
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brian+and+Tisha+White/BlueFuse+Realty-+How+to+Buy+and+Sell+Homes+Simultaneously.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/rawpixel-761473-unsplash.jpg
+youtube_code: AIIPSadiQ9Q
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
