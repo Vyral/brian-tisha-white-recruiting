@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlueFuse Interviews Rick Raanes
-date:
+date: 2019-03-04 17:26:33
 tags:
 excerpt:
 enclosure: >-
