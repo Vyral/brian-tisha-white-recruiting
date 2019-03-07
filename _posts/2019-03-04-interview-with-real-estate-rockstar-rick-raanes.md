@@ -11,8 +11,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2019-03-5.jpg
 youtube_code: AIIPSadiQ9Q
 ---
 
