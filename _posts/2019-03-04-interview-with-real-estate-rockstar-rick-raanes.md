@@ -3,6 +3,7 @@ layout: post
 title: Interview with Real Estate Rockstar Rick Raanes
 date: 2019-03-04 17:26:00
 tags:
+  - Interviews
 excerpt: >-
   Rick Raanes was influential in helping BlueFuse move to eXp Realty. Learn more
   about his methods to success.
