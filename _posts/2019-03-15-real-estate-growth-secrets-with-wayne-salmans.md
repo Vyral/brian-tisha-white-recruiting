@@ -16,3 +16,4 @@ youtube_alternate_image: /uploads/3-12-wayne-np.jpg
 youtube_code: ewtJu6HsbUE
 ---
 
+{% include youtube.html %}
