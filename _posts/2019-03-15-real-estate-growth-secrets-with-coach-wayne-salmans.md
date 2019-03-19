@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Real Estate Growth Secrets with Wayne Salmans
+title: Real Estate Growth Secrets with Coach Wayne Salmans
 date: 2019-03-15 15:56:00
 tags:
 excerpt: >-
-  Join us as we chat with Wayne Salmens and learn their real estate growth
+  Join us as we chat with Wayne Salmens and learn his real estate growth
   secrets.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brian+and+Tisha+White/BlueFuse+Realty-+Real+Estate+Growth+Secrets+with+Wayne+Salmans.mp4
