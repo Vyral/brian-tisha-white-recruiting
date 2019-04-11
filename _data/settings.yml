@@ -6,7 +6,7 @@ custom_links:
   - title: Free Newsletter
     url: /subscribe/
   - title: Join Our Team
-    url: /join-our-team/    
+    url: /join-our-team/
 
 client:
   name: Brian and Tisha White
@@ -87,6 +87,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
+  hero_logo2_path: /img/logo2.png
   logo_width_number: 40
   hero_text: Dallas - Fort Worth Real Estate Video Blog
   hero_background_hex: '#999'
