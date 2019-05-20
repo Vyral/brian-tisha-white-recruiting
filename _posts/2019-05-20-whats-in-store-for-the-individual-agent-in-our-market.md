@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s in Store for the Individual Agent in Our Market?
-date:
+date: 2019-05-20 15:50:03
 tags:
 excerpt: >-
   Part of understanding what lies ahead for the real estate industry in the
