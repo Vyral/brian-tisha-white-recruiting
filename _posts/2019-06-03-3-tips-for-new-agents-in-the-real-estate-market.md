@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for New Agents in the Real Estate Market
-date: 2019-06-03 16:07:32
+date: 2019-06-03 16:07:00
 tags:
 excerpt: >-
   Is now a good time to begin a career in real estate? Today we’ll share three
