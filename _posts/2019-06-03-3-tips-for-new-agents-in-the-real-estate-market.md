@@ -23,7 +23,7 @@ youtube_code: 9iJxFUfsCK8
 
 If you’re beginning your career in real estate or are considering making the jump to begin one, there are a few tips that we can give you to help your career get off to a great start.
 
-**1\. Begin with the end in mind.** By that, I mean you need to think about what you want to get out of real estate—do you want to sell homes until your 107 years old, or do you want to exit the industry before then? You need to work with a company that has a variety of ways to create a retirement plan so you can get out of the business when the time is right for you. That’s why we work with eXp—they have a great retirement plan that many companies lack.
+**1\. Begin with the end in mind.** By that, I mean you need to think about what you want to get out of real estate—do you want to sell homes until you're 107 years old, or do you want to exit the industry before then? You need to work with a company that has a variety of ways to create a retirement plan so you can get out of the business when the time is right for you. That’s why we work with eXp—they have a great retirement plan that many companies lack.
 
 {% include pullquote.html %}
 
