@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Reasons We Joined eXp Realty
-date: 2019-07-15 17:29:03
+date: 2019-07-15 17:29:00
 tags:
 excerpt: There are five reasons why we decided to join eXp Realty.
 enclosure: >-
