@@ -4,7 +4,8 @@ title: The 5 Reasons We Joined eXp Realty
 date:
 tags:
 excerpt: There are five reasons why we decided to join eXp Realty.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+and+Tisha+White/Why+BlueFuse+Joined+EXP+Realty.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
