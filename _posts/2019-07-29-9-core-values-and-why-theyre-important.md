@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Core Values and Why They're Important
-date:
+date: 2019-07-29 14:22:32
 tags:
 excerpt: >-
   What are our nine core values, and why are they so important to us? Find out
