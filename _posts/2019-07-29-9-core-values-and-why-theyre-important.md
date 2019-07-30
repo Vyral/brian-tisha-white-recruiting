@@ -24,7 +24,7 @@ Lewis Carroll once said, “If you don’t know where you’re going, any road w
 
 We love this quote, and it gets to the heart of why we love eXp, too. The founder of eXp, Glenn Sanford, started the company by first asking, “What kind of company do I want to have?” and, “What kind of people do I want to be in business with?”
 
-Glenn designed the culture of his company around nine core values that shape the way both the company itself and its agents operate. Here they are:
+Glenn designed the culture of his company around nine core values that shape the way both the company itself and its agents operate:
 
 **1\. Fun.** Who doesn’t like to have fun?&nbsp;
 
