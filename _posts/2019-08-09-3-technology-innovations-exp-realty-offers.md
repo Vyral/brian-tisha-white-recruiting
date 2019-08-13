@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 3 Technological Innovations eXp Realty Offers
+title: 3 Technology Innovations eXp Realty Offers
 date: 2019-08-09 18:04:00
 tags:
 excerpt: >-
-  There’s a lot to talk about in terms of technological innovation at eXp
-  Realty, but today we’ll focus on three technologies that help our agents.
+  There’s a lot to talk about in terms of technology innovations at eXp Realty,
+  but today we’ll focus on three technologies that help our agents.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brian+and+Tisha+White/3+Technological+Innovations+That+EXP+Realty+Uses.mp4
 pullquote:
@@ -18,7 +18,7 @@ youtube_code: Rk9IeUj47IE
 
 {% include youtube.html %}
 
-Here at eXp Realty, we pride ourselves on being on the cutting edge of technological innovation, and we want to talk about three innovations that help our agents tremendously.&nbsp;
+Here at eXp Realty, we pride ourselves on being on the cutting edge of tech innovation, and we want to talk about three innovations that help our agents tremendously.&nbsp;
 
 Follow along in the video above to see our in-depth discussion about these innovations and what they can do for you. **We’ve also provided timestamps of the video so you can skip ahead to various sections at your convenience:&nbsp;**
 
