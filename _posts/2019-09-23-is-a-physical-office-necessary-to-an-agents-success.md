@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a Physical Office Necessary to an Agent’s Success?
-date:
+date: 2019-09-23 15:35:13
 tags:
 excerpt: >-
   Do you need a physical office to be a successful agent? No, but there are
