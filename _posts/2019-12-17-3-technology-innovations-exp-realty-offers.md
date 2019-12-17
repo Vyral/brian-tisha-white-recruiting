@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Technology Innovations eXp Realty Offers
-date: 2019-08-09 18:04:00
+date: 2019-12-17 06:04:00
 tags:
 excerpt: >-
   There’s a lot to talk about in terms of technology innovations at eXp Realty,
